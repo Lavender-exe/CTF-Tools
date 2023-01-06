@@ -1,3 +1,13 @@
+**Tags:**
+- #HackTheBox
+- #Tools
+
+**Category:**
+- 
+
+---
+
+
 # Hack the Box
 
 Various scripts, exploits, and helper functions used for Hack the Box

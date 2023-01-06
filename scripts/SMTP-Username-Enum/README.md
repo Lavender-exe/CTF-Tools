@@ -1,3 +1,11 @@
+**Tags:**
+- #Tools 
+- #Enumeration
+
+**Category:**
+- #Web-Exploitation 
+
+---
 # SMTP Username Enumeration
 
 `vrfy.py` checks an SMTP server for valid usernames via the `VRFY` command.

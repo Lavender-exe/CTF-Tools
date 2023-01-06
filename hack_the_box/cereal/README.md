@@ -1,3 +1,13 @@
+**Tags:**
+- #HackTheBox 
+- #Tools 
+- #XSS 
+- #JWT
+
+**Category:**
+- #Web-Exploitation 
+
+---
 # Cereal Scripts
 
 This folder contains several scripts I used when solving Cereal on HTB. This was the most difficult box I've done so far, and involved manual exploitation of a custom .NET deserialisation vulnerability, as well as an XSS CVE in a Markdown library that I had not seen before.
